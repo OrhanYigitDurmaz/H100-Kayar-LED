@@ -1,0 +1,15 @@
+12V Regülatör  (LM2596 vb.)                                     1 adet
+
+WS2812B Adreslenebilir LED (ARGB) 60/mt             1 metre (ikiye bölünecek)
+
+100mA 5V Regülatör (78L05)                                     2 adet
+
+10uF Kapasitör (12v üstü)                                           2 adet
+
+1uF Kapasitör (5v Üstü)                                              2 adet
+
+Arduino Uno/Micro/Leonardo/Pro Micro               1 adet
+
+Bakır Pertinaks (İşimizi kolaylaştırması için)             1 adet (10x15)
+
+Genel Malzemeler (Havya, Dremel(Pertinaksı kesmek için), Tornavida benzeri)
